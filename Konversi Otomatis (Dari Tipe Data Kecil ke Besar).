@@ -1,0 +1,11 @@
+public class Day18{
+  public static void main(String[] args){
+    byte umur = 20;
+    int umurInt = umur;
+    double umurDouble = umurInt;
+
+  System.out.println("umur (byte) = " + umur);
+  System.out.println("umur (int) = " + umurInt);
+  System.out.println("umur (double) = " + umurDouble);
+  }
+}
